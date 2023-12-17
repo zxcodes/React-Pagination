@@ -25,7 +25,7 @@ const styles: StyleProps = {
     flexDirection: "column",
     justifyContent: "flex-start",
     alignItems: "flex-start",
-    width: "100%",
+    width: "auto",
     maxWidth: "24em",
     marginBottom: "1em",
   },
